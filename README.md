@@ -1,5 +1,7 @@
 # CharacterGen
 
+CharacterGen allows you to generate random diverse characters. It's fun, check it out!
+
 Start Phoenix server:
 
   * Install dependencies with `mix deps.get`
